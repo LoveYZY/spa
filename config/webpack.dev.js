@@ -10,6 +10,8 @@ module.exports = webpackMerge(common, {
     },
     devServer: {
         historyApiFallback: true,
-        stats: 'minimal'
+        stats: 'minimal',
+        host: '192.168.1.179',
+        port: '8080'
     }
 });
