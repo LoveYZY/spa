@@ -1,7 +1,7 @@
 {
-  "name": "base-framework",
+  "name": "init",
   "version": "1.0.0",
-  "description": "基础框架",
+  "description": "SPA",
   "main": "webpack.config.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --colors",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.ximalaya.com:ops/base-framework.git"
+    "url": "git@github.com:LoveYZY/spa.git"
   },
   "author": "victor.shen <victor.shen@ximalaya.com>",
   "license": "MIT",
